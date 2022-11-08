@@ -1,16 +1,11 @@
-# meals_app
+# Meals_app
 
-A new Flutter project.
+A simple flutter app without state management just for getting started with flutter and all his components
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/49797391/200683991-8f0a2e0e-3b69-4e3c-89f0-c639970f6ddb.jpg" width="230" height="500">
+<img src="https://user-images.githubusercontent.com/49797391/200684015-1f0d9961-c4bb-4eb2-9008-f5fb584dae02.jpg" width="230" height="500">
+<img src="https://user-images.githubusercontent.com/49797391/200684021-fa32dc85-bd70-460b-a0ad-374765b8e183.jpg" width="230" height="500">
+<img src="https://user-images.githubusercontent.com/49797391/200684027-d5442f02-53b5-4bb4-b7fd-129c957e9c62.jpg" width="230" height="500">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
